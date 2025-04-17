@@ -1,2 +1,2 @@
-# xpLab
-An exploring Lab.
+# xplab
+An exploring lab in AI.
