@@ -2,14 +2,16 @@
 # -*- coding: utf-8 -*-
 
 """
-A simple hello-world Python project.
+XPLab - AI Exploration Laboratory
 """
 
+__version__ = "0.1.0" 
+
 def main():
-    """
-    Main function that prints a hello world message.
-    """
-    print("Hello, World!")
+   """
+   Main function that prints a hello world message.
+   """
+   print("Hello, World!")
 
 """
 To run this script:
@@ -24,4 +26,4 @@ To run this script:
 The script will print "Hello, World!" to the console.
 """
 if __name__ == "__main__":
-    main()
+   main()
